@@ -5,11 +5,11 @@ Simply open with Eclipse...
 RandomBag
 /**
     * @param NumOfProblem : 问题规模
-		* @param weight[] : 物品质量
-		* @param value[] : 物品价值
-		* @param V :     背包体积
-		* @param pareOfV : 根据物体质量确定背包体积的参数 v = sum(weight)*pareOfV;
-    * @function createABag(int n, double pv) : 问题规模与根据背包总质量确定背包容量的参数pv
+    * @param weight[] : 物品质量
+    * @param value[] : 物品价值
+    * @param   V :    背包体积
+    * @param pareOfV : 根据物体质量确定背包体积的参数 v = sum(weight)*pareOfV;
+   createABag(int n, double pv) : 问题规模与根据背包总质量确定背包容量的参数pv
 */
     
 GeneticAlogrithm
