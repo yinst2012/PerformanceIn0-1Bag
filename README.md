@@ -1,7 +1,7 @@
 # PerformanceIn0-1Bag
 
-
-Simply open with Eclipse...
+求解0-1背包问题，选择实现了贪心算法、动态规划、分支限界和遗传算法，并对比其算法求解质量和实际运行时间的消耗。
+Simply open with Eclipse and click Run...
 
 
 @RandomBag
