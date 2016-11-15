@@ -1,12 +1,11 @@
 # PerformanceIn0-1Bag
 
+
 Simply open with Eclipse...
 
-关于几个函数类 
 
-RandomBag
+@RandomBag
 
-/**
 
 	* @param NumOfProblem : 问题规模
     
@@ -20,11 +19,9 @@ RandomBag
     	
 	createABag(int n, double pv) : 问题规模与根据背包总质量确定背包容量的参数pv
    
-*/
     
-GeneticAlogrithm
+@GeneticAlogrithm
 
-/**
 
 	 * @param capacity : 背包容量
 	 
@@ -39,6 +36,4 @@ GeneticAlogrithm
 	 * @param arate2 ：对于确定发生变异的个体每位发生变异的可能性
 	 
 	public GeneticAlgorithm(RandomBag rb, int scale, int maxgen, float irate, float arate1, float arate2)
-	
-*/
   
