@@ -2,6 +2,7 @@
 
 Simply open with Eclipse...
 
+关于几个函数类
 RandomBag
 /**
     * @param NumOfProblem : 问题规模
